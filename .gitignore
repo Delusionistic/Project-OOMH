@@ -80,3 +80,6 @@ build/
 
 # Logs
 *.log
+/Logs
+*.log
+*.log
