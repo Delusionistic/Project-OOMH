@@ -268,6 +268,7 @@ GameObject:
   - component: {fileID: 1224652632}
   - component: {fileID: 1224652630}
   - component: {fileID: 1224652629}
+  - component: {fileID: 1224652634}
   m_Layer: 0
   m_Name: Head1
   m_TagString: Head
@@ -417,6 +418,23 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1224652634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1224652627}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45cf6b20b1830314cbdf461a461a0398, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  headName: Basketball
+  buffMoveSpeed: 5
+  buffJumpPower: 10
+  buffDuration: 20
+  animator: {fileID: 0}
 --- !u!1 &1343292439
 GameObject:
   m_ObjectHideFlags: 0
@@ -683,7 +701,7 @@ GameObject:
   - component: {fileID: 8742390431313184972}
   - component: {fileID: 8517182116724200646}
   - component: {fileID: 8742390431313184974}
-  - component: {fileID: 8742390431313184973}
+  - component: {fileID: 8742390431313184975}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -779,27 +797,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &8742390431313184973
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7211023443413877938}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 97c25f15d71ce9c46986225ccae5c470, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  currentHead: {fileID: 0}
-  currentStats: {fileID: 0}
-  headAnimator: {fileID: 0}
-  defaultMoveSpeed: 5
-  defaultJumpPower: 5
-  moveSpeed: 0
-  jumpPower: 0
-  headMountPoint: {fileID: 0}
-  headTag: HeadItem
 --- !u!114 &8742390431313184974
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -814,11 +811,27 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 5
   jumpPower: 5
-  rb: {fileID: 0}
-  groundCheck: {fileID: 0}
+  rb: {fileID: 8517182116724200646}
+  groundCheck: {fileID: 8234484314630056085}
   groundLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
+--- !u!114 &8742390431313184975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7211023443413877938}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c35d0cfbb08030048882536c6fc46d0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 0
+  jumpPower: 0
+  headMountPoint: {fileID: 1343292440}
+  headTag: Head
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
