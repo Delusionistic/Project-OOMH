@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using UnityEngine.Audio;
 using TMPro;
 
-public class MenuManager : MonoBehaviour
+public class SettingsManager : MonoBehaviour
 {
     [Header("Resolution")]
     public List<ResItem> resolutions = new List<ResItem>();
