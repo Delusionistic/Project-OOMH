@@ -15,8 +15,8 @@ namespace Level
 
         private void OnCollisionEnter2D(Collision2D other)
         {
-            var player = other.gameObject.GetComponent<Player.PlayerController>();
-            if (player != null)
+            //var player = other.gameObject.GetComponent<player.PlayerController>();
+            //if (player != null)
             {
                 LoadLevel();
             }
