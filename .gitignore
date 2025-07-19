@@ -83,3 +83,4 @@ build/
 *.settings
 *.dwlt
 Assets/Scenes/TestMainMenu.unity
+*.dwlt
