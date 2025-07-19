@@ -80,3 +80,6 @@ build/
 
 # Logs
 *.log
+*.settings
+*.dwlt
+Assets/Scenes/TestMainMenu.unity
