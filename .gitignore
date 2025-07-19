@@ -81,3 +81,9 @@ build/
 # Logs
 *.log
 Logs/shadercompiler-UnityShaderCompiler.exe-0.log
+<<<<<<< Updated upstream
+=======
+UserSettings/Layouts/default-6000.dwlt
+Logs/shadercompiler-UnityShaderCompiler.exe-0.log
+UserSettings/Layouts/default-6000.dwlt
+>>>>>>> Stashed changes
