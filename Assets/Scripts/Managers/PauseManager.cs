@@ -15,6 +15,6 @@ public class PauseManager : MonoBehaviour
 
     public void MainMenu()
     {
-        SceneManager.LoadScene("BretMainMenu");
+        SceneManager.LoadScene("MainMenu");
     }
 }

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BallHoop_1_InColor 2_0: 5599493083933435117
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
