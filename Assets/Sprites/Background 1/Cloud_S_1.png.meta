@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+<<<<<<<< Updated upstream:Assets/Sprites/Background 1/House_1_InColor 1.png.meta
+guid: ce0faa511f733aa4f86b15b5379f2a50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9212884389315071413
+    second: House_1_InColor 1_0
+  - first:
+      213: 9171328330119945228
+    second: House_1_InColor 1_1
+  - first:
+      213: 3654358335443639657
+    second: House_1_InColor 1_2
+  - first:
+      213: 6833581174923424621
+    second: House_1_InColor 1_3
+========
+>>>>>>> Stashed changes
+=======
+<<<<<<<< Updated upstream:Assets/Sprites/Background 1/Spike.png.meta
+guid: 62551e77352d1c54399ce527db603e51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5159362228428509745
+    second: Spike_0
+  - first:
+      213: 973612898547601132
+    second: Spike_1
+  - first:
+      213: 9081050864577520736
+    second: Spike_2
+  - first:
+      213: 3891271342341341793
+    second: Spike_3
+  - first:
+      213: -3041931195111961766
+    second: Spike_4
+  - first:
+      213: 4255178849470395531
+    second: Spike_5
+  - first:
+      213: -3662043008418306186
+    second: Spike_6
+========
+>>>>>>> Stashed changes
+guid: 627081c5b99cd1042ac4a4b3a6e8dc64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4017395665547525133
+    second: Cloud_S_1_0
+  - first:
+      213: -4068462953218308279
+    second: Cloud_S_1_1
+  - first:
+      213: 4844492434840722028
+    second: Cloud_S_1_2
+  - first:
+      213: 7679231449152469648
+    second: Cloud_S_1_3
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>>> Stashed changes:Assets/Sprites/Background 1/Cloud_S_1.png.meta
+>>>>>>> Stashed changes
+=======
+>>>>>>>> Stashed changes:Assets/Sprites/Background 1/Cloud_S_1.png.meta
+>>>>>>> Stashed changes
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+      name: Cloud_S_1_0
+=======
+<<<<<<<< Updated upstream:Assets/Sprites/Background 1/House_1_InColor 1.png.meta
+      name: House_1_InColor 1_0
+========
+      name: Cloud_S_1_0
+>>>>>>>> Stashed changes:Assets/Sprites/Background 1/Cloud_S_1.png.meta
+>>>>>>> Stashed changes
+=======
+<<<<<<<< Updated upstream:Assets/Sprites/Background 1/Spike.png.meta
+      name: Spike_0
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 292
+        width: 257
+        height: 598
+========
+      name: Cloud_S_1_0
+>>>>>>> Stashed changes
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 867
+        width: 93
+        height: 44
+<<<<<<< Updated upstream
+=======
+>>>>>>>> Stashed changes:Assets/Sprites/Background 1/Cloud_S_1.png.meta
+>>>>>>> Stashed changes
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+      spriteID: d0c772f9218a0c730800000000000000
+      internalID: 4017395665547525133
+=======
+<<<<<<<< Updated upstream:Assets/Sprites/Background 1/House_1_InColor 1.png.meta
+      spriteID: b42322ab572452080800000000000000
+      internalID: -9212884389315071413
+=======
+<<<<<<<< Updated upstream:Assets/Sprites/Background 1/Spike.png.meta
+      spriteID: fcd63f283634668b0800000000000000
+      internalID: -5159362228428509745
+>>>>>>> Stashed changes
+========
+      spriteID: d0c772f9218a0c730800000000000000
+      internalID: 4017395665547525133
+>>>>>>>> Stashed changes:Assets/Sprites/Background 1/Cloud_S_1.png.meta
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+      name: Cloud_S_1_1
+=======
+<<<<<<<< Updated upstream:Assets/Sprites/Background 1/House_1_InColor 1.png.meta
+      name: House_1_InColor 1_1
+========
+      name: Cloud_S_1_1
+>>>>>>>> Stashed changes:Assets/Sprites/Background 1/Cloud_S_1.png.meta
+>>>>>>> Stashed changes
+=======
+<<<<<<<< Updated upstream:Assets/Sprites/Background 1/Spike.png.meta
+      name: Spike_1
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 327
+        width: 19
+        height: 7
+========
+      name: Cloud_S_1_1
+>>>>>>> Stashed changes
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 818
+        width: 442
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947069bef7ae987c0800000000000000
+      internalID: -4068462953218308279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_S_1_2
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 819
+        width: 33
+        height: 9
+<<<<<<< Updated upstream
+=======
+>>>>>>>> Stashed changes:Assets/Sprites/Background 1/Cloud_S_1.png.meta
+>>>>>>> Stashed changes
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+      spriteID: c6a9fb7c3381b3340800000000000000
+      internalID: 4844492434840722028
+=======
+<<<<<<<< Updated upstream:Assets/Sprites/Background 1/House_1_InColor 1.png.meta
+      spriteID: c0c9643468a174f70800000000000000
+      internalID: 9171328330119945228
+=======
+<<<<<<<< Updated upstream:Assets/Sprites/Background 1/Spike.png.meta
+      spriteID: cee0ba6d5c7f28d00800000000000000
+      internalID: 973612898547601132
+>>>>>>> Stashed changes
+========
+      spriteID: c6a9fb7c3381b3340800000000000000
+      internalID: 4844492434840722028
+>>>>>>>> Stashed changes:Assets/Sprites/Background 1/Cloud_S_1.png.meta
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+      name: Cloud_S_1_3
+=======
+<<<<<<<< Updated upstream:Assets/Sprites/Background 1/House_1_InColor 1.png.meta
+      name: House_1_InColor 1_2
+========
+      name: Cloud_S_1_3
+>>>>>>>> Stashed changes:Assets/Sprites/Background 1/Cloud_S_1.png.meta
+>>>>>>> Stashed changes
+=======
+<<<<<<<< Updated upstream:Assets/Sprites/Background 1/Spike.png.meta
+      name: Spike_2
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 310
+        width: 8
+        height: 7
+========
+      name: Cloud_S_1_3
+>>>>>>> Stashed changes
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 806
+        width: 77
+        height: 37
+<<<<<<< Updated upstream
+=======
+>>>>>>>> Stashed changes:Assets/Sprites/Background 1/Cloud_S_1.png.meta
+>>>>>>> Stashed changes
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+      spriteID: 09abdb2115c129a60800000000000000
+      internalID: 7679231449152469648
+=======
+<<<<<<<< Updated upstream:Assets/Sprites/Background 1/House_1_InColor 1.png.meta
+      spriteID: 96d1b126b83e6b230800000000000000
+      internalID: 3654358335443639657
+=======
+<<<<<<<< Updated upstream:Assets/Sprites/Background 1/Spike.png.meta
+      spriteID: 064a56ad5af560e70800000000000000
+      internalID: 9081050864577520736
+>>>>>>> Stashed changes
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+<<<<<<< Updated upstream
+      name: House_1_InColor 1_3
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 444
+        width: 561
+        height: 856
+=======
+      name: Spike_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 305
+        width: 27
+        height: 14
+>>>>>>> Stashed changes
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+<<<<<<< Updated upstream
+      spriteID: d637b1b6fd1c5de50800000000000000
+      internalID: 6833581174923424621
+=======
+      spriteID: 162c9e44ba2900630800000000000000
+      internalID: 3891271342341341793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_4
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 281
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b0c24e1b3e8c5d0800000000000000
+      internalID: -3041931195111961766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_5
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 285
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8430726e9e6d0b30800000000000000
+      internalID: 4255178849470395531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_6
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 290
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6772603494fcd2dc0800000000000000
+      internalID: -3662043008418306186
+>>>>>>> Stashed changes
+========
+      spriteID: 09abdb2115c129a60800000000000000
+      internalID: 7679231449152469648
+>>>>>>>> Stashed changes:Assets/Sprites/Background 1/Cloud_S_1.png.meta
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    nameFileIdTable:
+      House_1_InColor_0: -6690536810695961735
+      House_1_InColor_1: 7437886944529983538
+      House_1_InColor_2: -6282122280229874677
+      House_1_InColor_3: -2406548928622580304
+=======
+    nameFileIdTable: {}
+>>>>>>> Stashed changes
+=======
+    nameFileIdTable: {}
+>>>>>>> Stashed changes
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
