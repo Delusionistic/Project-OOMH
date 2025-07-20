@@ -80,6 +80,7 @@ build/
 
 # Logs
 *.log
+<<<<<<< HEAD
 Logs/shadercompiler-UnityShaderCompiler.exe-0.log
 <<<<<<< Updated upstream
 =======
@@ -89,3 +90,18 @@ UserSettings/Layouts/default-6000.dwlt
 >>>>>>> Stashed changes
 /Logs
 /UserSettings
+=======
+*.settings
+*.dwlt
+Assets/Scenes/TestMainMenu.unity
+*.dwlt
+UserSettings/EditorUserSettings.asset
+*.dwlt
+*.dwlt
+*.log
+*.asset
+*.dwlt
+>>>>>>> UI
+*.settings
+*.dwlt
+*.asset
