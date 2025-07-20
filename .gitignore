@@ -80,6 +80,7 @@ build/
 
 # Logs
 *.log
+<<<<<<< HEAD
 Logs/shadercompiler-UnityShaderCompiler.exe-0.log
 <<<<<<< Updated upstream
 =======
@@ -89,3 +90,9 @@ UserSettings/Layouts/default-6000.dwlt
 >>>>>>> Stashed changes
 /Logs
 /UserSettings
+=======
+/Logs
+*.log
+*.log
+*.log
+>>>>>>> Camera
