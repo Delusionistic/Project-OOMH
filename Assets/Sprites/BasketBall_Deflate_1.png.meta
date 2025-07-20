@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasketBall_Deflate_1_0: 5064798092399216389
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

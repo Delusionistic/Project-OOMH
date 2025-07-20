@@ -3337,7 +3337,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_VertexColorAlwaysGammaSpace: 0
+  m_VertexColorAlwaysGammaSpace: 1
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
@@ -3377,7 +3377,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a083cf82ed6c5f84facc25906f931036, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LevelToLoad: Level One
+  LevelToLoad: Level1
 --- !u!114 &1978596333
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3387,9 +3387,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 1978596327}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f04b7f1d51599341b3c666f2173a1e8, type: 3}
+  m_Script: {fileID: 11500000, guid: 8958c2604bccd3a41ad1d6a2d6feb601, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  resolutions: []
+  resolutionLabel: {fileID: 0}
+  fullscreenTog: {fileID: 0}
+  mainMixer: {fileID: 0}
+  masterSlider: {fileID: 0}
+  musicSlider: {fileID: 0}
+  SFXSlider: {fileID: 0}
 --- !u!1 &2037521677
 GameObject:
   m_ObjectHideFlags: 0
