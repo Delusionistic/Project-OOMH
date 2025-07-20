@@ -3,18 +3,43 @@ using UnityEngine.SceneManagement;
 
 public class PauseManager : MonoBehaviour
 {
-    public void QuitGame()
+    [SerializeField] private GameObject pauseMenuUI;
+    private bool isPaused = false;
+
+    void Update()
     {
-        Application.Quit();
+        if (Input.GetKeyDown("q"))
+        {
+            if (isPaused)
+                Resume();
+            else
+                Pause();
+        }
     }
 
     public void Resume()
     {
+        pauseMenuUI.SetActive(false);
         Time.timeScale = 1.0f;
+        isPaused = false;
+    }
+
+    public void Pause()
+    {
+        pauseMenuUI.SetActive(true);
+        Time.timeScale = 0f;
+        isPaused = true;
+    }
+
+    public void QuitGame()
+    {
+        Application.Quit();
+        Debug.Log("EndGame");
     }
 
     public void MainMenu()
     {
+        Time.timeScale = 1f;
         SceneManager.LoadScene("MainMenu");
     }
 }
