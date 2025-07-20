@@ -87,3 +87,6 @@ Assets/Scenes/TestMainMenu.unity
 UserSettings/EditorUserSettings.asset
 *.dwlt
 *.dwlt
+*.log
+*.asset
+*.dwlt
