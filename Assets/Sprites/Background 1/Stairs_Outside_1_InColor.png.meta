@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stairs_Outside_1_InColor_0: -3348034740958214815
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
